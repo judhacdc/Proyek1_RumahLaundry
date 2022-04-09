@@ -27,7 +27,7 @@
 				<li>
 					<span id=""><?= ucfirst($_SESSION['master']) ?></span>
 					<ul class="dropdown-menu">
-						<!-- <li><a href="<?=url('about.php')?>">Tentang Kami</a></li> -->
+						<li><a href="<?=url('about.php')?>">Tentang Kami</a></li>
 						<li><a href="<?=url('logout.php')?>">Logout</a></li>
 					</ul>
 				</li>
@@ -47,14 +47,14 @@
 			?>
 			<a href="<?=url('riwayat_transaksi/riwayat.php')?>" class="link-nav">Riwayat Transaksi</a>
 			<?php 
-				}else{				
-			?>			
-			<?php
-			?>
-			
-				<a href="<?=url('paket/paket.php')?>" class="link-nav">Daftar Paket</a>
-				<?php
 				}
+			?>			
+			<?php if ($data_account[0]['level'] == 'admin' || $data_account[0]['level'] == 'karyawan' || $data_account[0]['level'] == 'pelanggan') {
+				# code...
+			?>
+			<a href="<?=url('paket/paket.php')?>" class="link-nav">Daftar Paket</a>
+			<?php
+			}
 			?>
 		</div>
 	</header>
