@@ -1,5 +1,10 @@
 <?php 
 	require_once('_functions.php');
+	$data_account = query("SELECT * FROM master WHERE username = '$_SESSION[master]'");
+	var_dump($data_account);
+	echo $data_account[0]['level'];
+	
+	// echo $_SESSION['master'];
 ?>
 
 <!DOCTYPE html>
@@ -29,8 +34,21 @@
 			</ul>
 		</nav>
 		<div id="nav-mini">
+			<?php 
+				if ($data_account[0]['level'] == 'admin') {
+					?>
+					<a href="<?=url('karyawan/karyawan.php')?>" class="link-nav">Manage Karyawan</a>
+				<?php
+				}
+				?>
+			<?php
+				if ($data_account[0]['level'] == 'admin' || $data_account[0]['level'] == 'karyawan') {
+													
+			?>
 			<a href="<?=url('riwayat_transaksi/riwayat.php')?>" class="link-nav">Riwayat Transaksi</a>
-			<a href="<?=url('karyawan/karyawan.php')?>" class="link-nav">Manage Karyawan</a>
+			<?php 
+				}
+			?>			
 			<a href="<?=url('paket/paket.php')?>" class="link-nav">Daftar Paket</a>
 		</div>
 	</header>
