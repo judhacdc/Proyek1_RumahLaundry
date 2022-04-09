@@ -27,7 +27,7 @@
 				<li>
 					<span id=""><?= ucfirst($_SESSION['master']) ?></span>
 					<ul class="dropdown-menu">
-						<li><a href="<?=url('about.php')?>">Tentang Kami</a></li>
+						<!-- <li><a href="<?=url('about.php')?>">Tentang Kami</a></li> -->
 						<li><a href="<?=url('logout.php')?>">Logout</a></li>
 					</ul>
 				</li>
