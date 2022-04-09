@@ -47,8 +47,14 @@
 			?>
 			<a href="<?=url('riwayat_transaksi/riwayat.php')?>" class="link-nav">Riwayat Transaksi</a>
 			<?php 
-				}
+				}else{				
 			?>			
-			<a href="<?=url('paket/paket.php')?>" class="link-nav">Daftar Paket</a>
+			<?php
+			?>
+			
+				<a href="<?=url('paket/paket.php')?>" class="link-nav">Daftar Paket</a>
+				<?php
+				}
+			?>
 		</div>
 	</header>
