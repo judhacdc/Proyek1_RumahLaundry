@@ -46,7 +46,7 @@
 
 >> Beranda
 
-<img src=''>
+![dashboard](https://user-images.githubusercontent.com/95598563/163194208-a66681d0-9f80-40d0-8e6f-70fc95497b26.jpeg)
 
 >> Kartu Cucian
 
@@ -60,6 +60,10 @@
 
 <img src=''>
 
+>> Manajemen Karyawan
+
+![management karyawan](https://user-images.githubusercontent.com/95598563/163194484-580c804e-8b71-4f3a-8363-caa0b8713e47.jpeg)
+
 >> Manajemen Pelanggan
 
 <img src=''>
@@ -67,6 +71,20 @@
 >> Manajemen Produk
 
 <img src=''>
+
+>> Daftar Riwayat Transaksi
+![daftar riwayat transaksi](https://user-images.githubusercontent.com/95598563/163194620-59c4a001-9441-4637-99fc-b9f32289d99d.jpeg)
+
+>> Daftar Paket Tersedia
+![daftar paket tersedia](https://user-images.githubusercontent.com/95598563/163194807-4f64f41f-4c3c-4a89-a7d5-b3e2ad5adc0b.jpeg)
+
+>> Tambah Order Baru
+![tambah order baru](https://user-images.githubusercontent.com/95598563/163194984-f211433c-0a96-4af2-8039-a57d2af372fc.jpeg)
+
+>> Input Transaksi
+![paket cuci komplit](https://user-images.githubusercontent.com/95598563/163195144-80edc5f3-b155-4b2d-bc17-3d3e8cf45bd1.jpeg)
+
+![paket dry clean](https://user-images.githubusercontent.com/95598563/163195758-20854336-921c-4b27-aa22-d9b6523dedd3.jpeg)
 
 >> Invoice
 
