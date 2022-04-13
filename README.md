@@ -32,9 +32,9 @@
 <li> Print struk melalui printer thermal (Thermal Printer GP-5890XIII, Epson TM-T82, MiniPOS MP-RP58L disarankan)</li>
 <br/>
 <b>Developer Team</b>
-<li> Project Manager & Front End : Hasnah Nur Ardita</li>
-<li> Developer : Aditia Darma Nst</li>
-<li> UI/UX : Muhammad Rizky</li>
+<li> Project Manager : Aliyya Putri Setiyomadani</li>
+<li> Developer : Judha Maygustya</li>
+<li> UI/UX : Nisrina Hasyimiyyah</li>
 <br/>
 <b>Tampilan Aplikasi</b>
 <br/>
