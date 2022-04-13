@@ -33,8 +33,8 @@
 <br/>
 <b>Developer Team</b>
 <li> Project Manager & Front End : Hasnah Nur Ardita</li>
-<li> Back End : Aditia Darma Nst</li>
-<li> Microservice : Muhammad Rizky</li>
+<li> Developer : Aditia Darma Nst</li>
+<li> UI/UX : Muhammad Rizky</li>
 <br/>
 <b>Tampilan Aplikasi</b>
 <br/>
@@ -42,7 +42,6 @@
 >> Login
 
 ![Halaman Login](https://user-images.githubusercontent.com/95596815/163185309-d31fbd9e-44c8-43ac-b19e-b5dea616cb80.png)
-'
 
 >> Beranda
 
@@ -99,7 +98,14 @@ Demo :
 
 Video : 
 
-Access administrator<br/>
+<b>Access Administrator</b><br/>
+<li>Admin</li>
 username : admin<br/>
-password : admin<br/>
+password : admin<br/></br>
+<li>Karyawan</li>
+username : karyawan1<br/>
+password : karyawan1<br/></br>
+<li>Pelanggan</li>
+username : pelanggan<br/>
+password : pelanggan<br/></br>
 //-------------------------------------------------//
