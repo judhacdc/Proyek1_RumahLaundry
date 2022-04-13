@@ -69,7 +69,27 @@
 </br></br>
 ![paket dry clean](https://user-images.githubusercontent.com/95598563/163195758-20854336-921c-4b27-aa22-d9b6523dedd3.jpeg)
 
-<br/>
+</br>
+
+>> Form Pembayaran
+
+![form pembayaran 1](https://user-images.githubusercontent.com/95598563/163215521-a28fd85e-9670-4417-b8cf-f5e4445ad936.jpeg)
+
+</br></br>
+![form pembayaran 2](https://user-images.githubusercontent.com/95598563/163215545-794d6723-eb67-45c5-b5af-615f7f976de3.jpeg)
+
+</br>
+
+>> Invoice
+
+![invoice](https://user-images.githubusercontent.com/95598563/163215941-1d464c99-d34a-497b-bd2b-60b47cae3c8c.jpeg)
+
+</br>
+
+>> Struk (Thermal Print)
+
+![struk](https://user-images.githubusercontent.com/95598563/163215987-09eb6a41-7d31-45e1-aa7c-04bd71fd6cda.jpeg)
+</br>
 
 Sebelum menggunakan : <br/>
 <li> Clone repository terlebih dahulu </li>
